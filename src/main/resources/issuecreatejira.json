@@ -1,0 +1,53 @@
+{
+  "fields": {
+    "project": {
+      "key": "SCRUM"
+    },
+    "summary": "Defect summary goes here",
+    "description": {
+      "type": "doc",
+      "version": 1,
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "This is a detailed description of the defect, including:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "1. Steps to reproduce the issue."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "2. Expected vs actual results."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "3. Additional details or environment specifics."
+            }
+          ]
+        }
+      ]
+    },
+    "issuetype": {
+      "name": "Bug"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 12345,
+  "category": {
+    "id": 1,
+    "name": "dog"
+  },
+  "name": "snoopie",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 0,
+      "name": "string"
+    }
+  ],
+  "status": "pending"
+}
